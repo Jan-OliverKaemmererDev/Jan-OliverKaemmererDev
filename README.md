@@ -58,12 +58,12 @@ Hier ist eine kleine Auswahl meiner Projekte (Schau dir die Repositories unten a
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jan-OliverKaemmererDev&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jan-OliverKaemmererDev&layout=compact&langs_count=5&theme=dracula&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jan-OliverKaemmererDev&theme=dracula" alt="GitHub Profile Details" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jan-OliverKaemmererDev&theme=dracula" alt="Top Languages" width="48%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Jan-OliverKaemmererDev&mode=daily&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jan-OliverKaemmererDev&theme=dracula" alt="GitHub Stats" />
 </div>
 
 <br>
