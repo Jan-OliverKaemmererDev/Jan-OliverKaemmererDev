@@ -6,10 +6,10 @@
   <a href="https://jan-oliver-kaemmerer.de/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-0055FF?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/DEIN_LINKEDIN_NAME" target="_blank">
+  <a href="https://www.linkedin.com/in/jan-oliver-kämmerer-704a1834b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:jowieja22@gmail.com">
+  <a href="mailto:info@jan-oliver-kaemmerer.de">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
   </a>
 </div>
